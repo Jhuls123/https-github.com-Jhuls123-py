@@ -85,4 +85,7 @@ def my_add():
         MessageBox.showinfo("Insert status","Inserted Successfully!");
         con.close();
         print('Add Data')
+        print('Add Data successfull inserted!!!')
 root.mainloop()
+
+# second commit here!
